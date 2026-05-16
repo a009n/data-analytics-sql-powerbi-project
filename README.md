@@ -1,4 +1,4 @@
-# Superstore Power BI & SQL Project
+# Superstore SQL and Power BI Project
 
 An end-to-end data analytics project using the Sample Superstore dataset. This project includes data cleaning using SQL, analysis, and an interactive Power BI dashboard.
 
@@ -14,12 +14,12 @@ An end-to-end data analytics project using the Sample Superstore dataset. This p
 
 - SQL (MySQL Workbench)
 - Power BI
-- Excel / CSV
+- Excel/CSV
 
 ## Project Workflow
 
-1. Load dataset (Superstore CSV) - DONE
-2. Perform analysis using SQL queries - ON PROGRESS
+1. Load dataset (Superstore CSV)
+2. Perform analysis using SQL queries
 4. Build dashboard in Power BI
 5. Extract insights
 
@@ -29,5 +29,5 @@ An end-to-end data analytics project using the Sample Superstore dataset. This p
 2. Open SQL scripts and run queries  
 3. Open `dashboard.pbix` in Power BI Desktop  
 
-## 👤 Author
+## Author
 - Angela L. Hornilla
